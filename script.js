@@ -70,7 +70,10 @@ function updateEbayLink(model, storage) {
       ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252013%2520Pro&Storage%2520Capacity=256%2520GB&_dcat=9355";
     } else if (storage === "512") {
       ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252013%2520Pro&Storage%2520Capacity=512%2520GB&_dcat=9355";
+    }else if (storage === "1") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252013%2520Pro&Storage%2520Capacity=1%2520TB&_dcat=9355";
     }
+  
 
   } else if (model === "iphone13promax") {
     if (storage === "128") {
@@ -79,6 +82,8 @@ function updateEbayLink(model, storage) {
       ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252013%2520Pro%2520Max&Storage%2520Capacity=256%2520GB&_dcat=9355";
     } else if (storage === "512") {
       ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252013%2520Pro%2520Max&Storage%2520Capacity=512%2520GB&_dcat=9355";
+    }else if (storage === "1") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252013%2520Pro%2520Max&Storage%2520Capacity=1%2520TB&_dcat=9355";
     }
 
   } else if (model === "iphone14pro") {
@@ -88,6 +93,8 @@ function updateEbayLink(model, storage) {
       ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252014%2520Pro&Storage%2520Capacity=256%2520GB&_dcat=9355";
     } else if (storage === "512") {
       ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252014%2520Pro&Storage%2520Capacity=512%2520GB&_dcat=9355";
+    }else if (storage === "1") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252014%2520Pro&Storage%2520Capacity=1%2520TB&_dcat=9355";
     }
 
   } else if (model === "iphone14promax") {
@@ -97,6 +104,8 @@ function updateEbayLink(model, storage) {
       ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252014%2520Pro%2520Max&Storage%2520Capacity=256%2520GB&_dcat=9355";
     } else if (storage === "512") {
       ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252014%2520Pro%2520Max&Storage%2520Capacity=512%2520GB&_dcat=9355";
+    }else if (storage === "1") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252014%2520Pro%2520Max&Storage%2520Capacity=1%2520TB&_dcat=9355";
     }
 
   } else if (model === "iphone15pro") {
@@ -106,6 +115,8 @@ function updateEbayLink(model, storage) {
       ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252015%2520Pro&Storage%2520Capacity=256%2520GB&_dcat=9355";
     } else if (storage === "512") {
       ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252015%2520Pro&Storage%2520Capacity=512%2520GB&_dcat=9355";
+    }else if (storage === "1") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252015%2520Pro&Storage%2520Capacity=1%2520TB&_dcat=9355";
     }
 
   } else if (model === "iphone15promax") {
@@ -113,9 +124,37 @@ function updateEbayLink(model, storage) {
       ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252015%2520Pro%2520Max&Storage%2520Capacity=256%2520GB&_dcat=9355";
     } else if (storage === "512") {
       ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252015%2520Pro%2520Max&Storage%2520Capacity=512%2520GB&_dcat=9355";
+    }else if (storage === "1") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&_oaa=1&Model=Apple%2520iPhone%252015%2520Pro%2520Max&Storage%2520Capacity=1%2520TB&_dcat=9355";
+    }
+
+  } else if (model === "iphone13") {
+    if (storage === "128") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&Model=Apple%2520iPhone%252013&Storage%2520Capacity=128%2520GB&_dcat=9355";
+    } else if (storage === "256") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&Model=Apple%2520iPhone%252013&Storage%2520Capacity=256%2520GB&_dcat=9355";
+    } else if (storage === "512") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&Model=Apple%2520iPhone%252013&Storage%2520Capacity=512%2520GB&_dcat=9355";
+    }
+
+  } else if (model === "iphone14") {
+    if (storage === "128") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&Model=Apple%2520iPhone%252014&Storage%2520Capacity=128%2520GB&_dcat=9355";
+    } else if (storage === "256") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&Model=Apple%2520iPhone%252014&Storage%2520Capacity=256%2520GB&_dcat=9355";
+    } else if (storage === "512") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&Model=Apple%2520iPhone%252014&Storage%2520Capacity=512%2520GB&_dcat=9355";
+    }
+
+  } else if (model === "iphone15") {
+    if (storage === "128") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&Model=Apple%2520iPhone%252015&Storage%2520Capacity=128%2520GB&_dcat=9355";
+    } else if (storage === "256") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&Model=Apple%2520iPhone%252015&Storage%2520Capacity=256%2520GB&_dcat=9355";
+    } else if (storage === "512") {
+      ebayLink = "https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Complete=1&LH_Sold=1&Model=Apple%2520iPhone%252015&Storage%2520Capacity=512%2520GB&_dcat=9355";
     }
   }
-
   const linkBtn = document.getElementById('EbayLink');
   if (ebayLink !== "") {
     linkBtn.href = ebayLink;
