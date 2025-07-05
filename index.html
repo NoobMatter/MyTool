@@ -2,14 +2,15 @@
 <html lang="en">
 <head>
 
-<meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="apple-mobile-web-app-status-bar-style" content="black" />
-<link rel="apple-touch-icon" href="icon.png" /> 
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <link rel="apple-touch-icon" href="icon.png" /> 
 
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Phone Offer Calc</title>
   <script src="script.js" defer></script>
+
   <style>
     * {
       box-sizing: border-box;
@@ -66,13 +67,16 @@
       color: #fff;
     }
 
-    #SwappaOffer, #RecEbay {
+    #SwappaOffer, #RecEbay, #EbayLink {
       margin-top: 30px;
       padding: 20px;
       font-size: 1.2rem;
       text-align: center;
       border-radius: 12px;
       font-weight: 600;
+      display: block;
+      width: 100%;
+      transition: all 0.3s ease;
     }
 
     #SwappaOffer {
@@ -88,8 +92,28 @@
       color: #00aaff;
       backdrop-filter: blur(6px);
     }
+
+    #EbayLink {
+      background: rgba(0, 0, 0, 0.05);
+      border: 1px solid #0070f3;
+      color: #0070f3;
+      text-decoration: none;
+      backdrop-filter: blur(6px);
+      display: none; /* hidden by default, shown when data valid */
+    }
+
+    #EbayLink:hover {
+      background: rgba(0, 112, 243, 0.1);
+      transform: scale(1.02);
+    }
+
+    #EbayLink:active {
+      transform: scale(0.97);
+    }
+
   </style>
 </head>
+
 <body>
   <h1>&#x1F4F1; Phone Offer Tool</h1>
 
@@ -101,13 +125,12 @@
     <option value="iphone13">iPhone 13</option>
     <option value="iphone13pro">iPhone 13 Pro</option>
     <option value="iphone13promax">iPhone 13 Pro Max</option>
-     <option value="iphone14">iPhone 14</option>
-      <option value="iphone14pro">iPhone 14 Pro</option>
-      <option value="iphone14promax">iPhone 14 Pro Max</option>
-      <option value="iphone15">iPhone 15</option>
-       <option value="iphone15pro">iPhone 15 Pro</option>
-       <option value="iphone15promax">iPhone 15 Pro Max</option>
-        
+    <option value="iphone14">iPhone 14</option>
+    <option value="iphone14pro">iPhone 14 Pro</option>
+    <option value="iphone14promax">iPhone 14 Pro Max</option>
+    <option value="iphone15">iPhone 15</option>
+    <option value="iphone15pro">iPhone 15 Pro</option>
+    <option value="iphone15promax">iPhone 15 Pro Max</option>
   </select>
 
   <label for="condition">Condition</label>
@@ -129,5 +152,8 @@
 
   <p id="SwappaOffer">&#x1F4B8; Swappa Offer: </p>
   <p id="RecEbay">&#x1F4E6; Recommended eBay List Price: </p>
+
+  <a id="EbayLink" href="#" target="_blank">📦 eBay Sold Listings</a>
+
 </body>
 </html>
