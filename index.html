@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <link rel="apple-touch-icon" href="icon.png" /> 
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Phone Offer Calc</title>
+  <script src="script.js" defer></script>
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", sans-serif;
+    }
+
+    body {
+      background: linear-gradient(135deg, #111 0%, #222 100%);
+      color: #fff;
+      padding: 24px;
+      max-width: 480px;
+      margin: auto;
+    }
+
+    h1 {
+      font-size: 2rem;
+      font-weight: 600;
+      margin-bottom: 30px;
+      text-align: center;
+      color: #ffffff;
+    }
+
+    label {
+      font-size: 0.95rem;
+      font-weight: 500;
+      margin-bottom: 8px;
+      display: block;
+      color: #dddddd;
+      margin-top: 18px;
+    }
+
+    select {
+      width: 100%;
+      padding: 14px;
+      font-size: 1rem;
+      border-radius: 10px;
+      border: 1px solid #444;
+      background-color: #1c1c1e;
+      color: #fff;
+      margin-bottom: 4px;
+      transition: all 0.3s ease;
+    }
+
+    select:focus {
+      border-color: #0af;
+      outline: none;
+      background-color: #2a2a2e;
+    }
+
+    select option {
+      background: #1c1c1e;
+      color: #fff;
+    }
+
+    #SwappaOffer, #RecEbay, #EbayAverage, #EbayLink {
+      margin-top: 20px;
+      padding: 20px;
+      font-size: 1.2rem;
+      text-align: center;
+      border-radius: 12px;
+      font-weight: 600;
+      display: block;
+      width: 100%;
+      transition: all 0.3s ease;
+    }
+
+    #SwappaOffer {
+      background: rgba(0, 255, 140, 0.08);
+      border: 1px solid #0f0;
+      color: #00ff88;
+      backdrop-filter: blur(6px);
+    }
+
+    #RecEbay {
+      background: rgba(0, 140, 255, 0.08);
+      border: 1px solid #08f;
+      color: #00aaff;
+      backdrop-filter: blur(6px);
+    }
+
+    #EbayAverage {
+      background: rgba(255, 140, 0, 0.08);
+      border: 1px solid #ff8c00;
+      color: #ffaa00;
+      backdrop-filter: blur(6px);
+    }
+
+    #EbayLink {
+      background: rgba(0, 0, 0, 0.05);
+      border: 1px solid #0070f3;
+      color: #0070f3;
+      text-decoration: none;
+      backdrop-filter: blur(6px);
+      display: none; /* hidden by default, shown when data valid */
+    }
+
+    #EbayLink:hover {
+      background: rgba(0, 112, 243, 0.1);
+      transform: scale(1.02);
+    }
+
+    #EbayLink:active {
+      transform: scale(0.97);
+    }
+
+    .loading {
+      opacity: 0.6;
+    }
+
+    .loading::after {
+      content: " Loading...";
+      animation: dots 1.5s infinite;
+    }
+
+    @keyframes dots {
+      0%, 20% { content: " Loading."; }
+      40% { content: " Loading.."; }
+      60% { content: " Loading..."; }
+      80%, 100% { content: " Loading"; }
+    }
+
+  </style>
+</head>
+
+<body>
+  <h1>&#x1F4F1; Phone Offer Tool</h1>
+
+  <label for="model">Model</label>
+  <select id="model">
+    <option value="iphone12">iPhone 12</option>
+    <option value="iphone12pro">iPhone 12 Pro</option>
+    <option value="iphone12promax">iPhone 12 Pro Max</option>
+    <option value="iphone13">iPhone 13</option>
+    <option value="iphone13pro">iPhone 13 Pro</option>
+    <option value="iphone13promax">iPhone 13 Pro Max</option>
+    <option value="iphone14">iPhone 14</option>
+    <option value="iphone14pro">iPhone 14 Pro</option>
+    <option value="iphone14promax">iPhone 14 Pro Max</option>
+    <option value="iphone15">iPhone 15</option>
+    <option value="iphone15pro">iPhone 15 Pro</option>
+    <option value="iphone15promax">iPhone 15 Pro Max</option>
+  </select>
+
+  <label for="condition">Condition</label>
+  <select id="condition">
+    <option value="mint">Mint</option>
+    <option value="good">Good</option>
+    <option value="fair">Fair</option>
+    <option value="broken">Broken</option>
+  </select>
+
+  <label for="storage">Storage</label>
+  <select id="storage">
+    <option value="64">64GB</option>
+    <option value="128">128GB</option>
+    <option value="256">256GB</option>
+    <option value="512">512GB</option>
+    <option value="1">1TB</option>
+  </select>
+
+  <p id="SwappaOffer">&#x1F4B8; Swappa Offer: </p>
+  <p id="EbayAverage">&#x1F4CA; Average eBay Sold Price: </p>
+  <p id="RecEbay">&#x1F4E6; Recommended eBay List Price: </p>
+
+  <a id="EbayLink" href="#" target="_blank">📦 eBay Sold Listings</a>
+
+</body>
+</html>

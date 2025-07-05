@@ -1,0 +1,631 @@
+2025-07-05 20:16:19,146 - INFO - Scraping page 1
+2025-07-05 20:16:20,421 - INFO - Found 60 listings on page 1
+2025-07-05 20:16:22,422 - INFO - Scraping page 2
+2025-07-05 20:16:23,463 - INFO - Found 60 listings on page 2
+2025-07-05 20:16:25,464 - INFO - Scraping page 3
+2025-07-05 20:16:26,763 - INFO - Found 60 listings on page 3
+2025-07-05 20:16:28,766 - INFO - Scraping page 4
+2025-07-05 20:16:29,820 - INFO - Found 60 listings on page 4
+2025-07-05 20:16:31,820 - INFO - Scraping page 5
+2025-07-05 20:16:32,799 - INFO - Found 60 listings on page 5
+2025-07-05 20:16:34,800 - INFO - Total listings scraped: 300
+2025-07-05 20:16:34,801 - INFO - Removed 22 outliers from price data
+2025-07-05 20:16:34,802 - INFO - Extracted 278 valid prices from 300 listings
+2025-07-05 20:16:57,213 - INFO - Scraping page 1
+2025-07-05 20:16:58,136 - INFO - No listings found on page 1, stopping
+2025-07-05 20:16:58,136 - INFO - Total listings scraped: 0
+2025-07-05 20:19:29,776 - INFO - Scraping page 1
+2025-07-05 20:19:30,870 - INFO - Found 60 listings on page 1
+2025-07-05 20:19:32,871 - INFO - Scraping page 2
+2025-07-05 20:19:33,922 - INFO - Found 60 listings on page 2
+2025-07-05 20:19:35,925 - INFO - Scraping page 3
+2025-07-05 20:19:37,014 - INFO - Found 60 listings on page 3
+2025-07-05 20:19:39,016 - INFO - Scraping page 4
+2025-07-05 20:20:25,683 - INFO - Scraping page 1
+2025-07-05 20:20:27,022 - INFO - Found 60 listings on page 1
+2025-07-05 20:20:29,025 - INFO - Scraping page 2
+2025-07-05 20:20:30,283 - INFO - Found 59 listings on page 2
+2025-07-05 20:20:32,286 - INFO - Scraping page 3
+2025-07-05 20:20:33,728 - INFO - Found 57 listings on page 3
+2025-07-05 20:27:41,190 - INFO - Scraping page 1
+2025-07-05 20:27:42,695 - INFO - Found 60 listings on page 1
+2025-07-05 20:27:44,697 - INFO - Scraping page 2
+2025-07-05 20:27:45,860 - INFO - Found 60 listings on page 2
+2025-07-05 20:27:47,862 - INFO - Scraping page 3
+2025-07-05 20:27:49,125 - INFO - Found 60 listings on page 3
+2025-07-05 20:28:03,032 - INFO - Scraping page 1
+2025-07-05 20:28:04,553 - INFO - Found 60 listings on page 1
+2025-07-05 20:28:06,554 - INFO - Scraping page 2
+2025-07-05 20:28:07,487 - INFO - Found 60 listings on page 2
+2025-07-05 20:28:09,488 - INFO - Scraping page 3
+2025-07-05 20:28:10,671 - INFO - Found 60 listings on page 3
+2025-07-05 20:28:12,674 - INFO - Scraping page 4
+2025-07-05 20:28:13,941 - INFO - Found 60 listings on page 4
+2025-07-05 20:28:15,944 - INFO - Scraping page 5
+2025-07-05 20:28:17,777 - INFO - Found 60 listings on page 5
+2025-07-05 20:28:19,782 - INFO - Total listings scraped: 300
+2025-07-05 20:28:19,783 - INFO - Removed 23 outliers from price data
+2025-07-05 20:28:19,783 - INFO - Extracted 277 valid prices from 300 listings
+2025-07-05 20:28:47,938 - INFO - Scraping page 1
+2025-07-05 20:28:47,952 - INFO - Scraping page 1
+2025-07-05 20:28:49,156 - INFO - Found 60 listings on page 1
+2025-07-05 20:28:49,319 - INFO - Found 60 listings on page 1
+2025-07-05 20:28:51,157 - INFO - Scraping page 2
+2025-07-05 20:28:51,321 - INFO - Scraping page 2
+2025-07-05 20:28:52,436 - INFO - Found 60 listings on page 2
+2025-07-05 20:28:52,682 - INFO - Found 60 listings on page 2
+2025-07-05 20:28:54,438 - INFO - Scraping page 3
+2025-07-05 20:28:54,687 - INFO - Scraping page 3
+2025-07-05 20:28:55,764 - INFO - Found 60 listings on page 3
+2025-07-05 20:28:56,060 - INFO - Found 60 listings on page 3
+2025-07-05 20:28:57,766 - INFO - Scraping page 4
+2025-07-05 20:28:58,062 - INFO - Scraping page 4
+2025-07-05 20:28:59,581 - INFO - Found 60 listings on page 4
+2025-07-05 20:28:59,824 - INFO - Found 60 listings on page 4
+2025-07-05 20:29:01,583 - INFO - Scraping page 5
+2025-07-05 20:29:01,826 - INFO - Scraping page 5
+2025-07-05 20:29:03,345 - INFO - Found 60 listings on page 5
+2025-07-05 20:29:03,626 - INFO - Found 60 listings on page 5
+2025-07-05 20:29:05,348 - INFO - Total listings scraped: 300
+2025-07-05 20:29:05,348 - INFO - Removed 21 outliers from price data
+2025-07-05 20:29:05,348 - INFO - Extracted 279 valid prices from 300 listings
+2025-07-05 20:29:05,634 - INFO - Total listings scraped: 300
+2025-07-05 20:29:05,637 - INFO - Removed 22 outliers from price data
+2025-07-05 20:29:05,638 - INFO - Extracted 278 valid prices from 300 listings
+2025-07-05 20:31:17,554 - INFO - Scraping page 1
+2025-07-05 20:31:17,625 - INFO - Scraping page 1
+2025-07-05 20:31:18,910 - INFO - Found 60 listings on page 1
+2025-07-05 20:31:19,270 - INFO - Found 60 listings on page 1
+2025-07-05 20:31:20,910 - INFO - Scraping page 2
+2025-07-05 20:31:21,270 - INFO - Scraping page 2
+2025-07-05 20:31:22,127 - INFO - Found 60 listings on page 2
+2025-07-05 20:31:22,620 - INFO - Found 60 listings on page 2
+2025-07-05 20:31:24,127 - INFO - Scraping page 3
+2025-07-05 20:31:24,621 - INFO - Scraping page 3
+2025-07-05 20:31:25,368 - INFO - Found 60 listings on page 3
+2025-07-05 20:31:25,852 - INFO - Found 60 listings on page 3
+2025-07-05 20:31:27,368 - INFO - Scraping page 4
+2025-07-05 20:31:27,852 - INFO - Scraping page 4
+2025-07-05 20:31:28,586 - INFO - Found 60 listings on page 4
+2025-07-05 20:31:29,009 - INFO - Found 60 listings on page 4
+2025-07-05 20:31:30,586 - INFO - Scraping page 5
+2025-07-05 20:31:31,010 - INFO - Scraping page 5
+2025-07-05 20:31:31,772 - INFO - Found 60 listings on page 5
+2025-07-05 20:31:32,234 - INFO - Found 60 listings on page 5
+2025-07-05 20:31:33,775 - INFO - Total listings scraped: 300
+2025-07-05 20:31:33,776 - INFO - Removed 20 outliers from price data
+2025-07-05 20:31:33,776 - INFO - Extracted 280 valid prices from 300 listings
+2025-07-05 20:31:34,235 - INFO - Total listings scraped: 300
+2025-07-05 20:31:34,235 - INFO - Removed 20 outliers from price data
+2025-07-05 20:31:34,235 - INFO - Extracted 280 valid prices from 300 listings
+2025-07-05 20:32:36,344 - INFO - Scraping page 1
+2025-07-05 20:32:36,415 - INFO - Scraping page 1
+2025-07-05 20:32:37,538 - INFO - Found 60 listings on page 1
+2025-07-05 20:32:37,730 - INFO - Found 60 listings on page 1
+2025-07-05 20:32:39,538 - INFO - Scraping page 2
+2025-07-05 20:32:39,731 - INFO - Scraping page 2
+2025-07-05 20:32:41,068 - INFO - Found 60 listings on page 2
+2025-07-05 20:32:41,152 - INFO - Found 60 listings on page 2
+2025-07-05 20:32:43,070 - INFO - Scraping page 3
+2025-07-05 20:32:43,153 - INFO - Scraping page 3
+2025-07-05 20:32:44,444 - INFO - Found 60 listings on page 3
+2025-07-05 20:32:44,469 - INFO - Found 60 listings on page 3
+2025-07-05 20:32:46,445 - INFO - Scraping page 4
+2025-07-05 20:32:46,471 - INFO - Scraping page 4
+2025-07-05 20:32:47,637 - INFO - Found 60 listings on page 4
+2025-07-05 20:32:47,671 - INFO - Found 60 listings on page 4
+2025-07-05 20:32:49,638 - INFO - Scraping page 5
+2025-07-05 20:32:49,671 - INFO - Scraping page 5
+2025-07-05 20:32:50,960 - INFO - Found 60 listings on page 5
+2025-07-05 20:32:51,141 - INFO - Found 60 listings on page 5
+2025-07-05 20:32:52,961 - INFO - Total listings scraped: 300
+2025-07-05 20:32:52,961 - INFO - Removed 22 outliers from price data
+2025-07-05 20:32:52,961 - INFO - Extracted 278 valid prices from 300 listings
+2025-07-05 20:32:53,144 - INFO - Total listings scraped: 300
+2025-07-05 20:32:53,144 - INFO - Removed 22 outliers from price data
+2025-07-05 20:32:53,144 - INFO - Extracted 278 valid prices from 300 listings
+2025-07-05 20:34:25,370 - INFO - Scraping page 1
+2025-07-05 20:34:25,370 - INFO - Scraping page 1
+2025-07-05 20:34:26,762 - INFO - Found 60 listings on page 1
+2025-07-05 20:34:26,768 - INFO - Found 60 listings on page 1
+2025-07-05 20:34:28,762 - INFO - Scraping page 2
+2025-07-05 20:34:28,768 - INFO - Scraping page 2
+2025-07-05 20:34:29,797 - INFO - Found 60 listings on page 2
+2025-07-05 20:34:29,899 - INFO - Found 60 listings on page 2
+2025-07-05 20:34:31,797 - INFO - Scraping page 3
+2025-07-05 20:34:31,899 - INFO - Scraping page 3
+2025-07-05 20:34:32,957 - INFO - Found 60 listings on page 3
+2025-07-05 20:34:33,121 - INFO - Found 60 listings on page 3
+2025-07-05 20:34:34,960 - INFO - Scraping page 4
+2025-07-05 20:34:35,123 - INFO - Scraping page 4
+2025-07-05 20:34:36,134 - INFO - Found 60 listings on page 4
+2025-07-05 20:34:36,242 - INFO - Found 60 listings on page 4
+2025-07-05 20:34:38,135 - INFO - Scraping page 5
+2025-07-05 20:34:38,242 - INFO - Scraping page 5
+2025-07-05 20:34:39,590 - INFO - Found 60 listings on page 5
+2025-07-05 20:34:39,593 - INFO - Found 60 listings on page 5
+2025-07-05 20:34:41,592 - INFO - Total listings scraped: 300
+2025-07-05 20:34:41,593 - INFO - Removed 17 outliers from price data
+2025-07-05 20:34:41,593 - INFO - Extracted 283 valid prices from 300 listings
+2025-07-05 20:34:41,594 - INFO - Total listings scraped: 300
+2025-07-05 20:34:41,594 - INFO - Removed 17 outliers from price data
+2025-07-05 20:34:41,594 - INFO - Extracted 283 valid prices from 300 listings
+2025-07-05 20:37:57,919 - INFO - Scraping page 1
+2025-07-05 20:37:57,920 - INFO - Scraping page 1
+2025-07-05 20:37:59,150 - INFO - Found 60 listings on page 1
+2025-07-05 20:37:59,247 - INFO - Found 60 listings on page 1
+2025-07-05 20:38:01,151 - INFO - Scraping page 2
+2025-07-05 20:38:01,250 - INFO - Scraping page 2
+2025-07-05 20:38:02,431 - INFO - Found 59 listings on page 2
+2025-07-05 20:38:02,490 - INFO - Found 59 listings on page 2
+2025-07-05 20:38:04,432 - INFO - Scraping page 3
+2025-07-05 20:38:04,490 - INFO - Scraping page 3
+2025-07-05 20:38:05,680 - INFO - Found 60 listings on page 3
+2025-07-05 20:38:06,111 - INFO - Found 60 listings on page 3
+2025-07-05 20:38:07,680 - INFO - Scraping page 4
+2025-07-05 20:38:08,113 - INFO - Scraping page 4
+2025-07-05 20:38:08,670 - INFO - Found 60 listings on page 4
+2025-07-05 20:38:09,198 - INFO - Found 60 listings on page 4
+2025-07-05 20:38:10,670 - INFO - Scraping page 5
+2025-07-05 20:38:11,204 - INFO - Scraping page 5
+2025-07-05 20:38:11,798 - INFO - Found 60 listings on page 5
+2025-07-05 20:38:12,409 - INFO - Found 60 listings on page 5
+2025-07-05 20:38:13,798 - INFO - Total listings scraped: 299
+2025-07-05 20:38:13,799 - INFO - Removed 25 outliers from price data
+2025-07-05 20:38:13,799 - INFO - Extracted 274 valid prices from 299 listings
+2025-07-05 20:38:14,409 - INFO - Total listings scraped: 299
+2025-07-05 20:38:14,409 - INFO - Removed 21 outliers from price data
+2025-07-05 20:38:14,409 - INFO - Extracted 278 valid prices from 299 listings
+2025-07-05 20:40:49,477 - INFO - Scraping page 1
+2025-07-05 20:40:49,505 - INFO - Scraping page 1
+2025-07-05 20:40:50,563 - INFO - Found 60 listings on page 1
+2025-07-05 20:40:50,701 - INFO - Found 60 listings on page 1
+2025-07-05 20:40:52,563 - INFO - Scraping page 2
+2025-07-05 20:40:52,701 - INFO - Scraping page 2
+2025-07-05 20:40:53,703 - INFO - Found 60 listings on page 2
+2025-07-05 20:40:53,782 - INFO - Found 60 listings on page 2
+2025-07-05 20:40:55,705 - INFO - Scraping page 3
+2025-07-05 20:40:55,782 - INFO - Scraping page 3
+2025-07-05 20:40:56,760 - INFO - Found 60 listings on page 3
+2025-07-05 20:40:56,938 - INFO - Found 60 listings on page 3
+2025-07-05 20:40:58,760 - INFO - Scraping page 4
+2025-07-05 20:40:58,939 - INFO - Scraping page 4
+2025-07-05 20:40:59,743 - INFO - Found 60 listings on page 4
+2025-07-05 20:40:59,998 - INFO - Found 60 listings on page 4
+2025-07-05 20:41:01,743 - INFO - Scraping page 5
+2025-07-05 20:41:01,998 - INFO - Scraping page 5
+2025-07-05 20:41:02,990 - INFO - Found 60 listings on page 5
+2025-07-05 20:41:03,116 - INFO - Found 60 listings on page 5
+2025-07-05 20:41:04,990 - INFO - Total listings scraped: 300
+2025-07-05 20:41:04,990 - INFO - Removed 15 outliers from price data
+2025-07-05 20:41:04,990 - INFO - Extracted 285 valid prices from 300 listings
+2025-07-05 20:41:05,116 - INFO - Total listings scraped: 300
+2025-07-05 20:41:05,117 - INFO - Removed 15 outliers from price data
+2025-07-05 20:41:05,117 - INFO - Extracted 285 valid prices from 300 listings
+2025-07-05 20:42:09,741 - INFO - Scraping page 1
+2025-07-05 20:42:09,752 - INFO - Scraping page 1
+2025-07-05 20:42:10,790 - INFO - Found 60 listings on page 1
+2025-07-05 20:42:10,828 - INFO - Found 60 listings on page 1
+2025-07-05 20:42:12,790 - INFO - Scraping page 2
+2025-07-05 20:42:12,829 - INFO - Scraping page 2
+2025-07-05 20:42:13,792 - INFO - Found 60 listings on page 2
+2025-07-05 20:42:13,889 - INFO - Found 60 listings on page 2
+2025-07-05 20:42:15,792 - INFO - Scraping page 3
+2025-07-05 20:42:15,889 - INFO - Scraping page 3
+2025-07-05 20:42:16,768 - INFO - Found 60 listings on page 3
+2025-07-05 20:42:16,986 - INFO - Found 60 listings on page 3
+2025-07-05 20:42:18,768 - INFO - Scraping page 4
+2025-07-05 20:42:18,987 - INFO - Scraping page 4
+2025-07-05 20:42:19,905 - INFO - Found 60 listings on page 4
+2025-07-05 20:42:20,276 - INFO - Found 60 listings on page 4
+2025-07-05 20:42:21,905 - INFO - Scraping page 5
+2025-07-05 20:42:22,276 - INFO - Scraping page 5
+2025-07-05 20:42:22,996 - INFO - Found 60 listings on page 5
+2025-07-05 20:42:23,400 - INFO - Found 60 listings on page 5
+2025-07-05 20:42:24,996 - INFO - Total listings scraped: 300
+2025-07-05 20:42:24,997 - INFO - Removed 17 outliers from price data
+2025-07-05 20:42:24,997 - INFO - Extracted 283 valid prices from 300 listings
+2025-07-05 20:42:25,401 - INFO - Total listings scraped: 300
+2025-07-05 20:42:25,402 - INFO - Removed 17 outliers from price data
+2025-07-05 20:42:25,402 - INFO - Extracted 283 valid prices from 300 listings
+2025-07-05 20:43:37,309 - INFO - Scraping page 1
+2025-07-05 20:43:37,325 - INFO - Scraping page 1
+2025-07-05 20:43:38,452 - INFO - Found 60 listings on page 1
+2025-07-05 20:43:38,615 - INFO - Found 60 listings on page 1
+2025-07-05 20:43:40,452 - INFO - Scraping page 2
+2025-07-05 20:43:40,616 - INFO - Scraping page 2
+2025-07-05 20:43:41,790 - INFO - Found 60 listings on page 2
+2025-07-05 20:43:41,875 - INFO - Found 60 listings on page 2
+2025-07-05 20:43:43,791 - INFO - Scraping page 3
+2025-07-05 20:43:43,875 - INFO - Scraping page 3
+2025-07-05 20:43:44,834 - INFO - Found 60 listings on page 3
+2025-07-05 20:43:44,952 - INFO - Found 60 listings on page 3
+2025-07-05 20:43:46,834 - INFO - Scraping page 4
+2025-07-05 20:43:46,952 - INFO - Scraping page 4
+2025-07-05 20:43:47,855 - INFO - Found 60 listings on page 4
+2025-07-05 20:43:48,080 - INFO - Found 60 listings on page 4
+2025-07-05 20:43:49,855 - INFO - Scraping page 5
+2025-07-05 20:43:50,080 - INFO - Scraping page 5
+2025-07-05 20:43:51,093 - INFO - Found 60 listings on page 5
+2025-07-05 20:43:51,416 - INFO - Found 60 listings on page 5
+2025-07-05 20:43:53,093 - INFO - Total listings scraped: 300
+2025-07-05 20:43:53,094 - INFO - Removed 20 outliers from price data
+2025-07-05 20:43:53,094 - INFO - Extracted 280 valid prices from 300 listings
+2025-07-05 20:43:53,417 - INFO - Total listings scraped: 300
+2025-07-05 20:43:53,417 - INFO - Removed 20 outliers from price data
+2025-07-05 20:43:53,417 - INFO - Extracted 280 valid prices from 300 listings
+2025-07-05 21:38:31,130 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.128.29:5000
+2025-07-05 21:38:31,137 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-05 21:38:31,557 - INFO - 172.31.128.29 - - [05/Jul/2025 21:38:31] "GET / HTTP/1.1" 200 -
+2025-07-05 21:38:31,558 - INFO - 172.31.128.29 - - [05/Jul/2025 21:38:31] "GET / HTTP/1.1" 200 -
+2025-07-05 21:38:31,690 - INFO - 172.31.128.29 - - [05/Jul/2025 21:38:31] "GET /script.js HTTP/1.1" 200 -
+2025-07-05 21:38:31,721 - INFO - 172.31.128.29 - - [05/Jul/2025 21:38:31] "GET /swappaData.json HTTP/1.1" 200 -
+2025-07-05 21:38:31,751 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:38:31,751 - INFO - Scraping page 1
+2025-07-05 21:38:31,794 - INFO - 172.31.128.29 - - [05/Jul/2025 21:38:31] "GET /script.js HTTP/1.1" 200 -
+2025-07-05 21:38:32,123 - INFO - 172.31.128.29 - - [05/Jul/2025 21:38:32] "GET /swappaData.json HTTP/1.1" 200 -
+2025-07-05 21:38:33,089 - INFO - Found 60 listings on page 1
+2025-07-05 21:38:35,089 - INFO - Scraping page 2
+2025-07-05 21:38:36,349 - INFO - Found 60 listings on page 2
+2025-07-05 21:38:38,349 - INFO - Total listings scraped: 120
+2025-07-05 21:38:38,350 - INFO - Removed 12 outliers from price data
+2025-07-05 21:38:38,350 - INFO - Extracted 108 valid prices from 120 listings
+2025-07-05 21:38:38,351 - INFO - 172.31.128.29 - - [05/Jul/2025 21:38:38] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:38:39,141 - INFO - 172.31.128.29 - - [05/Jul/2025 21:38:39] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:38:39,186 - INFO - 172.31.128.29 - - [05/Jul/2025 21:38:39] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-07-05 21:38:39,320 - INFO - 127.0.0.1 - - [05/Jul/2025 21:38:39] "GET / HTTP/1.1" 200 -
+2025-07-05 21:38:39,353 - INFO - 127.0.0.1 - - [05/Jul/2025 21:38:39] "GET /script.js HTTP/1.1" 200 -
+2025-07-05 21:38:39,416 - INFO - 127.0.0.1 - - [05/Jul/2025 21:38:39] "GET /swappaData.json HTTP/1.1" 200 -
+2025-07-05 21:38:39,424 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:38:39,424 - INFO - Scraping page 1
+2025-07-05 21:38:39,428 - INFO - 172.31.128.29 - - [05/Jul/2025 21:38:39] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:38:39,463 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:38:39,463 - INFO - Scraping page 1
+2025-07-05 21:38:41,035 - INFO - Found 60 listings on page 1
+2025-07-05 21:38:41,195 - INFO - Found 60 listings on page 1
+2025-07-05 21:38:43,040 - INFO - Scraping page 2
+2025-07-05 21:38:43,196 - INFO - Scraping page 2
+2025-07-05 21:38:44,645 - INFO - Found 60 listings on page 2
+2025-07-05 21:38:45,264 - INFO - Found 60 listings on page 2
+2025-07-05 21:38:46,646 - INFO - Total listings scraped: 120
+2025-07-05 21:38:46,646 - INFO - Removed 12 outliers from price data
+2025-07-05 21:38:46,647 - INFO - Extracted 108 valid prices from 120 listings
+2025-07-05 21:38:46,648 - INFO - 172.31.128.29 - - [05/Jul/2025 21:38:46] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:38:47,266 - INFO - Total listings scraped: 120
+2025-07-05 21:38:47,267 - INFO - Removed 14 outliers from price data
+2025-07-05 21:38:47,267 - INFO - Extracted 106 valid prices from 120 listings
+2025-07-05 21:38:47,269 - INFO - 127.0.0.1 - - [05/Jul/2025 21:38:47] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:39:12,665 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:39:12,665 - INFO - Scraping page 1
+2025-07-05 21:39:13,790 - INFO - Found 60 listings on page 1
+2025-07-05 21:39:15,790 - INFO - Scraping page 2
+2025-07-05 21:39:17,007 - INFO - Found 60 listings on page 2
+2025-07-05 21:39:19,011 - INFO - Total listings scraped: 120
+2025-07-05 21:39:19,012 - INFO - Removed 15 outliers from price data
+2025-07-05 21:39:19,012 - INFO - Extracted 105 valid prices from 120 listings
+2025-07-05 21:39:19,014 - INFO - 172.31.128.29 - - [05/Jul/2025 21:39:19] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:39:50,068 - INFO - 172.31.128.29 - - [05/Jul/2025 21:39:50] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:39:50,109 - INFO - 172.31.128.29 - - [05/Jul/2025 21:39:50] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-07-05 21:39:50,139 - INFO - 172.31.128.29 - - [05/Jul/2025 21:39:50] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:39:50,170 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:39:50,170 - INFO - Scraping page 1
+2025-07-05 21:39:51,322 - INFO - Found 60 listings on page 1
+2025-07-05 21:39:53,322 - INFO - Scraping page 2
+2025-07-05 21:39:54,781 - INFO - Found 60 listings on page 2
+2025-07-05 21:39:56,782 - INFO - Total listings scraped: 120
+2025-07-05 21:39:56,782 - INFO - Removed 14 outliers from price data
+2025-07-05 21:39:56,782 - INFO - Extracted 106 valid prices from 120 listings
+2025-07-05 21:39:56,783 - INFO - 172.31.128.29 - - [05/Jul/2025 21:39:56] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:44:03,872 - INFO - 172.31.128.29 - - [05/Jul/2025 21:44:03] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:44:04,020 - INFO - 172.31.128.29 - - [05/Jul/2025 21:44:04] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-07-05 21:44:04,173 - INFO - 172.31.128.29 - - [05/Jul/2025 21:44:04] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:44:04,204 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:44:04,205 - INFO - Scraping page 1
+2025-07-05 21:44:05,565 - INFO - Found 60 listings on page 1
+2025-07-05 21:44:05,680 - INFO - 172.31.128.29 - - [05/Jul/2025 21:44:05] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:44:05,737 - INFO - 172.31.128.29 - - [05/Jul/2025 21:44:05] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:44:05,775 - INFO - 172.31.128.29 - - [05/Jul/2025 21:44:05] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:44:05,814 - INFO - 172.31.128.29 - - [05/Jul/2025 21:44:05] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-07-05 21:44:05,844 - INFO - 172.31.128.29 - - [05/Jul/2025 21:44:05] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:44:05,875 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:44:05,875 - INFO - Scraping page 1
+2025-07-05 21:44:05,889 - INFO - 172.31.128.29 - - [05/Jul/2025 21:44:05] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-07-05 21:44:05,975 - INFO - 172.31.128.29 - - [05/Jul/2025 21:44:05] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:44:06,098 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:44:06,099 - INFO - Scraping page 1
+2025-07-05 21:44:07,636 - INFO - Scraping page 2
+2025-07-05 21:44:07,785 - INFO - Found 60 listings on page 1
+2025-07-05 21:44:07,844 - INFO - Found 60 listings on page 1
+2025-07-05 21:44:09,085 - INFO - Found 60 listings on page 2
+2025-07-05 21:44:09,798 - INFO - Scraping page 2
+2025-07-05 21:44:09,844 - INFO - Scraping page 2
+2025-07-05 21:44:11,154 - INFO - Total listings scraped: 120
+2025-07-05 21:44:11,160 - INFO - Removed 12 outliers from price data
+2025-07-05 21:44:11,165 - INFO - Extracted 108 valid prices from 120 listings
+2025-07-05 21:44:11,188 - INFO - 172.31.128.29 - - [05/Jul/2025 21:44:11] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:44:11,342 - INFO - Found 60 listings on page 2
+2025-07-05 21:44:11,750 - INFO - Found 60 listings on page 2
+2025-07-05 21:44:13,351 - INFO - Total listings scraped: 120
+2025-07-05 21:44:13,351 - INFO - Removed 12 outliers from price data
+2025-07-05 21:44:13,351 - INFO - Extracted 108 valid prices from 120 listings
+2025-07-05 21:44:13,352 - INFO - 172.31.128.29 - - [05/Jul/2025 21:44:13] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:44:13,750 - INFO - Total listings scraped: 120
+2025-07-05 21:44:13,751 - INFO - Removed 14 outliers from price data
+2025-07-05 21:44:13,751 - INFO - Extracted 106 valid prices from 120 listings
+2025-07-05 21:44:13,752 - INFO - 172.31.128.29 - - [05/Jul/2025 21:44:13] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:53:30,905 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.128.36:5000
+2025-07-05 21:53:30,905 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-05 21:53:31,181 - INFO - 172.31.128.36 - - [05/Jul/2025 21:53:31] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:53:31,182 - INFO - 172.31.128.36 - - [05/Jul/2025 21:53:31] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:53:31,185 - INFO - 172.31.128.36 - - [05/Jul/2025 21:53:31] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:53:31,230 - INFO - 172.31.128.36 - - [05/Jul/2025 21:53:31] "GET /script.js HTTP/1.1" 200 -
+2025-07-05 21:53:31,285 - INFO - 172.31.128.36 - - [05/Jul/2025 21:53:31] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:53:31,321 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:53:31,321 - INFO - 172.31.128.36 - - [05/Jul/2025 21:53:31] "GET /script.js HTTP/1.1" 200 -
+2025-07-05 21:53:31,321 - INFO - Scraping page 1
+2025-07-05 21:53:31,665 - INFO - 172.31.128.36 - - [05/Jul/2025 21:53:31] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:53:31,726 - INFO - 172.31.128.36 - - [05/Jul/2025 21:53:31] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:53:31,832 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:53:31,832 - INFO - Scraping page 1
+2025-07-05 21:53:32,577 - INFO - Found 60 listings on page 1
+2025-07-05 21:53:33,104 - INFO - Found 60 listings on page 1
+2025-07-05 21:53:34,578 - INFO - Scraping page 2
+2025-07-05 21:53:35,104 - INFO - Scraping page 2
+2025-07-05 21:53:35,773 - INFO - Found 60 listings on page 2
+2025-07-05 21:53:36,428 - INFO - Found 60 listings on page 2
+2025-07-05 21:53:37,485 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:53:37,487 - INFO - Scraping page 1
+2025-07-05 21:53:37,773 - INFO - Total listings scraped: 120
+2025-07-05 21:53:37,773 - INFO - Removed 7 outliers from price data
+2025-07-05 21:53:37,774 - INFO - Extracted 113 valid prices from 120 listings
+2025-07-05 21:53:37,775 - INFO - 172.31.128.36 - - [05/Jul/2025 21:53:37] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:53:38,433 - INFO - Total listings scraped: 120
+2025-07-05 21:53:38,438 - INFO - Removed 6 outliers from price data
+2025-07-05 21:53:38,446 - INFO - Extracted 114 valid prices from 120 listings
+2025-07-05 21:53:38,447 - INFO - 172.31.128.36 - - [05/Jul/2025 21:53:38] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:53:38,654 - INFO - Found 60 listings on page 1
+2025-07-05 21:53:40,654 - INFO - Scraping page 2
+2025-07-05 21:53:41,749 - INFO - Found 60 listings on page 2
+2025-07-05 21:53:43,749 - INFO - Total listings scraped: 120
+2025-07-05 21:53:43,750 - INFO - Removed 7 outliers from price data
+2025-07-05 21:53:43,750 - INFO - Extracted 113 valid prices from 120 listings
+2025-07-05 21:53:43,751 - INFO - 127.0.0.1 - - [05/Jul/2025 21:53:43] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:54:08,260 - INFO - Scraping page 1
+2025-07-05 21:54:08,492 - INFO - Scraping page 1
+2025-07-05 21:54:08,714 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.128.36:5000
+2025-07-05 21:54:08,715 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-05 21:54:08,991 - INFO - 172.31.128.36 - - [05/Jul/2025 21:54:08] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:54:08,994 - INFO - 172.31.128.36 - - [05/Jul/2025 21:54:08] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:54:09,014 - INFO - 172.31.128.36 - - [05/Jul/2025 21:54:09] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:54:09,031 - INFO - 172.31.128.36 - - [05/Jul/2025 21:54:09] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-07-05 21:54:09,061 - INFO - 172.31.128.36 - - [05/Jul/2025 21:54:09] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:54:09,094 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:54:09,094 - INFO - Scraping page 1
+2025-07-05 21:54:09,138 - INFO - 172.31.128.36 - - [05/Jul/2025 21:54:09] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-07-05 21:54:09,287 - INFO - 127.0.0.1 - - [05/Jul/2025 21:54:09] "GET / HTTP/1.1" 200 -
+2025-07-05 21:54:09,304 - INFO - 127.0.0.1 - - [05/Jul/2025 21:54:09] "GET /script.js HTTP/1.1" 200 -
+2025-07-05 21:54:09,320 - INFO - 172.31.128.36 - - [05/Jul/2025 21:54:09] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:54:09,332 - INFO - 127.0.0.1 - - [05/Jul/2025 21:54:09] "GET /swappaData.json HTTP/1.1" 200 -
+2025-07-05 21:54:09,375 - INFO - 172.31.128.36 - - [05/Jul/2025 21:54:09] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:54:09,388 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:54:09,388 - INFO - Scraping page 1
+2025-07-05 21:54:09,520 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:54:09,521 - INFO - Scraping page 1
+2025-07-05 21:54:09,528 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:54:09,528 - INFO - Scraping page 1
+2025-07-05 21:54:09,768 - INFO - Found 60 listings on page 1
+2025-07-05 21:54:09,898 - INFO - Found 60 listings on page 1
+2025-07-05 21:54:10,282 - INFO - Found 60 listings on page 1
+2025-07-05 21:54:11,770 - INFO - Scraping page 2
+2025-07-05 21:54:11,817 - INFO - Found 60 listings on page 1
+2025-07-05 21:54:11,899 - INFO - Scraping page 2
+2025-07-05 21:54:11,927 - INFO - Found 60 listings on page 1
+2025-07-05 21:54:11,986 - INFO - Found 60 listings on page 1
+2025-07-05 21:54:12,299 - INFO - Scraping page 2
+2025-07-05 21:54:12,882 - INFO - Found 60 listings on page 2
+2025-07-05 21:54:13,040 - INFO - Found 60 listings on page 2
+2025-07-05 21:54:13,377 - INFO - Found 60 listings on page 2
+2025-07-05 21:54:13,823 - INFO - Scraping page 2
+2025-07-05 21:54:13,933 - INFO - Scraping page 2
+2025-07-05 21:54:13,986 - INFO - Scraping page 2
+2025-07-05 21:54:14,882 - INFO - Scraping page 3
+2025-07-05 21:54:15,040 - INFO - Scraping page 3
+2025-07-05 21:54:15,107 - INFO - Found 60 listings on page 2
+2025-07-05 21:54:15,381 - INFO - Total listings scraped: 120
+2025-07-05 21:54:15,387 - INFO - Removed 5 outliers from price data
+2025-07-05 21:54:15,405 - INFO - Extracted 115 valid prices from 120 listings
+2025-07-05 21:54:15,406 - INFO - 172.31.128.36 - - [05/Jul/2025 21:54:15] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:54:16,183 - INFO - Found 60 listings on page 3
+2025-07-05 21:54:16,372 - INFO - Found 60 listings on page 3
+2025-07-05 21:54:16,429 - INFO - Found 60 listings on page 2
+2025-07-05 21:54:16,439 - INFO - Found 60 listings on page 2
+2025-07-05 21:54:17,108 - INFO - Total listings scraped: 120
+2025-07-05 21:54:17,108 - INFO - Removed 7 outliers from price data
+2025-07-05 21:54:17,108 - INFO - Extracted 113 valid prices from 120 listings
+2025-07-05 21:54:17,109 - INFO - 172.31.128.36 - - [05/Jul/2025 21:54:17] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:54:18,183 - INFO - Scraping page 4
+2025-07-05 21:54:18,373 - INFO - Scraping page 4
+2025-07-05 21:54:18,437 - INFO - Total listings scraped: 120
+2025-07-05 21:54:18,437 - INFO - Removed 6 outliers from price data
+2025-07-05 21:54:18,438 - INFO - Extracted 114 valid prices from 120 listings
+2025-07-05 21:54:18,438 - INFO - 127.0.0.1 - - [05/Jul/2025 21:54:18] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:54:18,441 - INFO - Total listings scraped: 120
+2025-07-05 21:54:18,442 - INFO - Removed 6 outliers from price data
+2025-07-05 21:54:18,442 - INFO - Extracted 114 valid prices from 120 listings
+2025-07-05 21:54:18,442 - INFO - 172.31.128.36 - - [05/Jul/2025 21:54:18] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:54:19,188 - INFO - Found 60 listings on page 4
+2025-07-05 21:54:19,453 - INFO - Found 60 listings on page 4
+2025-07-05 21:54:21,189 - INFO - Scraping page 5
+2025-07-05 21:54:21,453 - INFO - Scraping page 5
+2025-07-05 21:54:22,284 - INFO - Found 60 listings on page 5
+2025-07-05 21:54:22,620 - INFO - Found 60 listings on page 5
+2025-07-05 21:54:24,285 - INFO - Total listings scraped: 300
+2025-07-05 21:54:24,285 - INFO - Removed 20 outliers from price data
+2025-07-05 21:54:24,286 - INFO - Extracted 280 valid prices from 300 listings
+2025-07-05 21:54:24,620 - INFO - Total listings scraped: 300
+2025-07-05 21:54:24,620 - INFO - Removed 20 outliers from price data
+2025-07-05 21:54:24,621 - INFO - Extracted 280 valid prices from 300 listings
+2025-07-05 21:55:34,053 - INFO - Scraping page 1
+2025-07-05 21:55:34,061 - INFO - Scraping page 1
+2025-07-05 21:55:34,205 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.128.36:5000
+2025-07-05 21:55:34,206 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-05 21:55:34,542 - INFO - 172.31.128.36 - - [05/Jul/2025 21:55:34] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:55:34,548 - INFO - 172.31.128.36 - - [05/Jul/2025 21:55:34] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:55:34,551 - INFO - 172.31.128.36 - - [05/Jul/2025 21:55:34] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:55:34,591 - INFO - 172.31.128.36 - - [05/Jul/2025 21:55:34] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-07-05 21:55:34,621 - INFO - 172.31.128.36 - - [05/Jul/2025 21:55:34] "GET /swappaData.json HTTP/1.1" 200 -
+2025-07-05 21:55:34,656 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:55:34,657 - INFO - Scraping page 1
+2025-07-05 21:55:34,686 - INFO - 172.31.128.36 - - [05/Jul/2025 21:55:34] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-07-05 21:55:34,858 - INFO - 172.31.128.36 - - [05/Jul/2025 21:55:34] "GET /swappaData.json HTTP/1.1" 200 -
+2025-07-05 21:55:34,861 - INFO - 172.31.128.36 - - [05/Jul/2025 21:55:34] "GET /swappaData.json HTTP/1.1" 200 -
+2025-07-05 21:55:35,033 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:55:35,035 - INFO - Scraping page 1
+2025-07-05 21:55:35,050 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:55:35,054 - INFO - Scraping page 1
+2025-07-05 21:55:35,619 - INFO - Found 60 listings on page 1
+2025-07-05 21:55:35,741 - INFO - Found 60 listings on page 1
+2025-07-05 21:55:37,103 - INFO - Found 60 listings on page 1
+2025-07-05 21:55:37,577 - INFO - Found 60 listings on page 1
+2025-07-05 21:55:37,619 - INFO - Scraping page 2
+2025-07-05 21:55:37,641 - INFO - Found 60 listings on page 1
+2025-07-05 21:55:37,741 - INFO - Scraping page 2
+2025-07-05 21:55:38,878 - INFO - Found 60 listings on page 2
+2025-07-05 21:55:39,043 - INFO - Found 60 listings on page 2
+2025-07-05 21:55:39,105 - INFO - Scraping page 2
+2025-07-05 21:55:39,578 - INFO - Scraping page 2
+2025-07-05 21:55:39,642 - INFO - Scraping page 2
+2025-07-05 21:55:40,631 - INFO - Found 60 listings on page 2
+2025-07-05 21:55:40,879 - INFO - Scraping page 3
+2025-07-05 21:55:41,044 - INFO - Scraping page 3
+2025-07-05 21:55:41,069 - INFO - Found 60 listings on page 2
+2025-07-05 21:55:41,602 - INFO - Found 60 listings on page 2
+2025-07-05 21:55:41,969 - INFO - Found 60 listings on page 3
+2025-07-05 21:55:42,143 - INFO - Found 60 listings on page 3
+2025-07-05 21:55:42,636 - INFO - Total listings scraped: 120
+2025-07-05 21:55:42,636 - INFO - Removed 7 outliers from price data
+2025-07-05 21:55:42,636 - INFO - Extracted 113 valid prices from 120 listings
+2025-07-05 21:55:42,638 - INFO - 172.31.128.36 - - [05/Jul/2025 21:55:42] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:55:43,069 - INFO - Total listings scraped: 120
+2025-07-05 21:55:43,070 - INFO - Removed 7 outliers from price data
+2025-07-05 21:55:43,070 - INFO - Extracted 113 valid prices from 120 listings
+2025-07-05 21:55:43,071 - INFO - 172.31.128.36 - - [05/Jul/2025 21:55:43] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:55:43,603 - INFO - Total listings scraped: 120
+2025-07-05 21:55:43,603 - INFO - Removed 5 outliers from price data
+2025-07-05 21:55:43,603 - INFO - Extracted 115 valid prices from 120 listings
+2025-07-05 21:55:43,604 - INFO - 172.31.128.36 - - [05/Jul/2025 21:55:43] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:55:43,969 - INFO - Scraping page 4
+2025-07-05 21:55:44,143 - INFO - Scraping page 4
+2025-07-05 21:55:45,119 - INFO - Found 60 listings on page 4
+2025-07-05 21:55:45,189 - INFO - Found 60 listings on page 4
+2025-07-05 21:55:47,120 - INFO - Scraping page 5
+2025-07-05 21:55:47,189 - INFO - Scraping page 5
+2025-07-05 21:55:48,137 - INFO - Found 60 listings on page 5
+2025-07-05 21:55:48,344 - INFO - Found 60 listings on page 5
+2025-07-05 21:55:50,138 - INFO - Total listings scraped: 300
+2025-07-05 21:55:50,140 - INFO - Removed 20 outliers from price data
+2025-07-05 21:55:50,140 - INFO - Extracted 280 valid prices from 300 listings
+2025-07-05 21:55:50,345 - INFO - Total listings scraped: 300
+2025-07-05 21:55:50,346 - INFO - Removed 20 outliers from price data
+2025-07-05 21:55:50,346 - INFO - Extracted 280 valid prices from 300 listings
+2025-07-05 21:57:09,361 - INFO - 172.31.128.36 - - [05/Jul/2025 21:57:09] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:57:09,633 - INFO - 172.31.128.36 - - [05/Jul/2025 21:57:09] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-07-05 21:57:09,817 - INFO - 172.31.128.36 - - [05/Jul/2025 21:57:09] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:57:09,859 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:57:09,859 - INFO - Scraping page 1
+2025-07-05 21:57:10,977 - INFO - 172.31.128.36 - - [05/Jul/2025 21:57:10] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:57:11,044 - INFO - 172.31.128.36 - - [05/Jul/2025 21:57:11] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:57:11,057 - INFO - 172.31.128.36 - - [05/Jul/2025 21:57:11] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:57:11,135 - INFO - 172.31.128.36 - - [05/Jul/2025 21:57:11] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-07-05 21:57:11,224 - INFO - 172.31.128.36 - - [05/Jul/2025 21:57:11] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:57:11,229 - INFO - 172.31.128.36 - - [05/Jul/2025 21:57:11] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-07-05 21:57:11,259 - INFO - Found 60 listings on page 1
+2025-07-05 21:57:11,262 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:57:11,263 - INFO - Scraping page 1
+2025-07-05 21:57:11,346 - INFO - 172.31.128.36 - - [05/Jul/2025 21:57:11] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:57:11,379 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:57:11,379 - INFO - Scraping page 1
+2025-07-05 21:57:12,426 - INFO - Found 60 listings on page 1
+2025-07-05 21:57:12,848 - INFO - Found 60 listings on page 1
+2025-07-05 21:57:13,260 - INFO - Scraping page 2
+2025-07-05 21:57:14,285 - INFO - Found 60 listings on page 2
+2025-07-05 21:57:14,426 - INFO - Scraping page 2
+2025-07-05 21:57:14,848 - INFO - Scraping page 2
+2025-07-05 21:57:15,649 - INFO - Found 60 listings on page 2
+2025-07-05 21:57:16,092 - INFO - Found 60 listings on page 2
+2025-07-05 21:57:16,285 - INFO - Total listings scraped: 120
+2025-07-05 21:57:16,286 - INFO - Removed 5 outliers from price data
+2025-07-05 21:57:16,286 - INFO - Extracted 115 valid prices from 120 listings
+2025-07-05 21:57:16,287 - INFO - 172.31.128.36 - - [05/Jul/2025 21:57:16] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:57:17,649 - INFO - Total listings scraped: 120
+2025-07-05 21:57:17,650 - INFO - Removed 5 outliers from price data
+2025-07-05 21:57:17,650 - INFO - Extracted 115 valid prices from 120 listings
+2025-07-05 21:57:17,651 - INFO - 172.31.128.36 - - [05/Jul/2025 21:57:17] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:57:18,093 - INFO - Total listings scraped: 120
+2025-07-05 21:57:18,093 - INFO - Removed 6 outliers from price data
+2025-07-05 21:57:18,093 - INFO - Extracted 114 valid prices from 120 listings
+2025-07-05 21:57:18,095 - INFO - 172.31.128.36 - - [05/Jul/2025 21:57:18] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:58:54,613 - INFO - Scraping page 1
+2025-07-05 21:58:54,614 - INFO - Scraping page 1
+2025-07-05 21:58:54,763 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.128.11:5000
+2025-07-05 21:58:54,764 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-05 21:58:55,116 - INFO - 172.31.128.11 - - [05/Jul/2025 21:58:55] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:58:55,158 - INFO - 172.31.128.11 - - [05/Jul/2025 21:58:55] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-07-05 21:58:55,188 - INFO - 172.31.128.11 - - [05/Jul/2025 21:58:55] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:58:55,229 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:58:55,229 - INFO - Scraping page 1
+2025-07-05 21:58:55,236 - INFO - 172.31.128.11 - - [05/Jul/2025 21:58:55] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-05 21:58:55,366 - INFO - 172.31.128.11 - - [05/Jul/2025 21:58:55] "[36mGET /script.js HTTP/1.1[0m" 304 -
+2025-07-05 21:58:55,691 - INFO - 172.31.128.11 - - [05/Jul/2025 21:58:55] "[36mGET /swappaData.json HTTP/1.1[0m" 304 -
+2025-07-05 21:58:56,042 - INFO - Found 60 listings on page 1
+2025-07-05 21:58:56,145 - INFO - Found 60 listings on page 1
+2025-07-05 21:58:56,578 - INFO - Found 60 listings on page 1
+2025-07-05 21:58:58,046 - INFO - Scraping page 2
+2025-07-05 21:58:58,150 - INFO - Scraping page 2
+2025-07-05 21:58:58,579 - INFO - Scraping page 2
+2025-07-05 21:58:59,077 - INFO - Found 60 listings on page 2
+2025-07-05 21:58:59,145 - INFO - Found 60 listings on page 2
+2025-07-05 21:58:59,676 - INFO - Found 60 listings on page 2
+2025-07-05 21:59:01,078 - INFO - Scraping page 3
+2025-07-05 21:59:01,146 - INFO - Scraping page 3
+2025-07-05 21:59:01,676 - INFO - Total listings scraped: 120
+2025-07-05 21:59:01,677 - INFO - Removed 6 outliers from price data
+2025-07-05 21:59:01,677 - INFO - Extracted 114 valid prices from 120 listings
+2025-07-05 21:59:01,678 - INFO - 172.31.128.11 - - [05/Jul/2025 21:59:01] "POST /api/ebay-average HTTP/1.1" 200 -
+2025-07-05 21:59:02,284 - INFO - Found 60 listings on page 3
+2025-07-05 21:59:02,308 - INFO - Found 60 listings on page 3
+2025-07-05 21:59:04,284 - INFO - Scraping page 4
+2025-07-05 21:59:04,309 - INFO - Scraping page 4
+2025-07-05 21:59:05,565 - INFO - Found 60 listings on page 4
+2025-07-05 21:59:05,586 - INFO - Found 60 listings on page 4
+2025-07-05 21:59:07,566 - INFO - Scraping page 5
+2025-07-05 21:59:07,586 - INFO - Scraping page 5
+2025-07-05 21:59:08,513 - INFO - Found 60 listings on page 5
+2025-07-05 21:59:08,895 - INFO - Found 60 listings on page 5
+2025-07-05 21:59:10,515 - INFO - Total listings scraped: 300
+2025-07-05 21:59:10,515 - INFO - Removed 20 outliers from price data
+2025-07-05 21:59:10,515 - INFO - Extracted 280 valid prices from 300 listings
+2025-07-05 21:59:10,897 - INFO - Total listings scraped: 300
+2025-07-05 21:59:10,898 - INFO - Removed 20 outliers from price data
+2025-07-05 21:59:10,898 - INFO - Extracted 280 valid prices from 300 listings
+2025-07-05 21:59:19,654 - INFO - 172.31.128.11 - - [05/Jul/2025 21:59:19] "GET / HTTP/1.1" 200 -
+2025-07-05 21:59:19,712 - INFO - 172.31.128.11 - - [05/Jul/2025 21:59:19] "GET /script.js HTTP/1.1" 200 -
+2025-07-05 21:59:19,771 - INFO - 172.31.128.11 - - [05/Jul/2025 21:59:19] "GET /swappaData.json HTTP/1.1" 200 -
+2025-07-05 21:59:19,804 - INFO - Fetching eBay average for: https://www.ebay.com/sch/i.html?_nkw=Iphone&LH_Com...
+2025-07-05 21:59:19,804 - INFO - Scraping page 1
+2025-07-05 21:59:20,967 - INFO - Found 60 listings on page 1
